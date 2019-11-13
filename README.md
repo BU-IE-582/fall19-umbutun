@@ -1,4 +1,5 @@
-y[yhttps://github.com/BU-IE-582/fall19-umbutun/blob/master/Task1.html](url) and ![Image](src)
+yhttps://github.com/BU-IE-582/fall19-umbutun/blob/master/Task1.ipynb
+https://github.com/BU-IE-582/fall19-umbutun/blob/master/Task1.ipynb
 Hw2_Task1.html
 
 Hw2_Task2.html
