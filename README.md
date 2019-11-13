@@ -9,3 +9,5 @@
 
 #### Homework #2
 
+* [Task-1](https://github.com/BU-IE-582/fall19-umbutun/blob/master/Hw2_Task1.ipynb)
+* [Task-2](https://github.com/BU-IE-582/fall19-umbutun/blob/master/Hw2_Task2.ipynb)
