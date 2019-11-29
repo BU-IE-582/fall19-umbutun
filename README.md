@@ -14,4 +14,4 @@
 
 #### Homework #3
 
-* [Tasks-a..f](https://github.com/BU-IE-582/fall19-umbutun/blob/master/Hw3.ipynb)
+* [Tasks-a..f](https://github.com/BU-IE-582/fall19-umbutun/blob/master/HW3.ipynb)
